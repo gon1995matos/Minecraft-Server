@@ -1,0 +1,66 @@
+[08:25:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:25:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:25:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:25:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:25:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:25:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:25:16] [main/INFO]: Reloading ResourceManager: Default
+[08:25:19] [Worker-Main-12/INFO]: Loaded 7 recipes
+[08:25:20] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[08:25:22] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[08:25:22] [Server thread/INFO]: Loading properties
+[08:25:22] [Server thread/INFO]: Default game type: SURVIVAL
+[08:25:22] [Server thread/INFO]: Generating keypair
+[08:25:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:25:22] [Server thread/INFO]: Using epoll channel type
+[08:25:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:25:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:25:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:25:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:25:22] [Server thread/INFO]: Preparing level "world"
+[08:25:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:25:23] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[08:25:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[08:25:24] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[08:25:24] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:25:25] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:25:25] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:25:26] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[08:25:26] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[08:25:27] [Worker-Main-10/INFO]: Preparing spawn area: 8%
+[08:25:27] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[08:25:28] [Worker-Main-11/INFO]: Preparing spawn area: 14%
+[08:25:28] [Worker-Main-14/INFO]: Preparing spawn area: 26%
+[08:25:29] [Worker-Main-14/INFO]: Preparing spawn area: 29%
+[08:25:29] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[08:25:30] [Worker-Main-14/INFO]: Preparing spawn area: 54%
+[08:25:30] [Worker-Main-9/INFO]: Preparing spawn area: 78%
+[08:25:31] [Worker-Main-14/INFO]: Preparing spawn area: 91%
+[08:25:32] [Server thread/INFO]: Time elapsed: 8952 ms
+[08:25:32] [Server thread/INFO]: Done (9.204s)! For help, type "help"
+[08:25:32] [Server thread/INFO]: Starting remote control listener
+[08:25:32] [Server thread/INFO]: Thread RCON Listener started
+[08:25:32] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[08:27:08] [Server thread/INFO]: Farrecas[/172.17.0.1:45106] logged in with entity id 306 at (-275.4107051798636, 74.0, 194.60958930159373)
+[08:27:08] [Server thread/INFO]: Farrecas joined the game
+[08:30:07] [Server thread/INFO]: Farrecas lost connection: Disconnected
+[08:30:07] [Server thread/INFO]: Farrecas left the game
+[08:35:30] [Server thread/INFO]: Farrecas[/172.17.0.1:45152] logged in with entity id 804 at (-293.26061042241685, 70.0, 188.1493580513329)
+[08:35:30] [Server thread/INFO]: Farrecas joined the game
+[08:35:41] [Server thread/WARN]: Farrecas moved too quickly! 9.721276217509853,1.044812420399012,-2.7486721558289844
+[08:37:04] [Server thread/INFO]: Farrecas lost connection: Disconnected
+[08:37:04] [Server thread/INFO]: Farrecas left the game
+[08:38:22] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:38:22] [Server thread/INFO]: [Rcon: Stopping the server]
+[08:38:22] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[08:38:22] [Server thread/INFO]: Stopping server
+[08:38:22] [Server thread/INFO]: Saving players
+[08:38:22] [Server thread/INFO]: Saving worlds
+[08:38:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:38:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:38:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:38:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:38:23] [Server thread/INFO]: Thread RCON Listener stopped
